@@ -8,6 +8,9 @@
 
 ### Maven Repository
 3. **https://mvnrepository.com/**
+   
+### Chrome Install
+4. Install Chrome version 119
 
 ### Install Maven Dependencies
 1. maven-dependency: **org.seleniumhq.selenium**
